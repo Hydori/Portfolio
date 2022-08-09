@@ -1,0 +1,16 @@
+<svg width="1308" height="226" viewBox="0 0 1308 226" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M534 226V115L526.5 107.5V66.5" stroke="black"/>
+<circle cx="526.5" cy="66.5" r="1.5" fill="black"/>
+<path d="M538 226V145L544.5 138.5V109L551.5 102.5V93.5" stroke="black"/>
+<circle cx="551.5" cy="93.5" r="1.5" fill="black"/>
+<path d="M530 226V133.5L513.5 117V95.5L504.5 86.5" stroke="black"/>
+<circle cx="504.5" cy="86.5" r="1.5" fill="black"/>
+<path d="M8 226V134L26 116H45L52 109" stroke="black"/>
+<circle r="1.5" transform="matrix(1 0 0 -1 52.5 108.5)" fill="black"/>
+<path d="M1 226V134L19.5 115.5V1" stroke="black"/>
+<circle r="1.5" transform="matrix(1 0 0 -1 19.5 1.5)" fill="black"/>
+<path d="M873 226V160.5L861.5 149.5V98.5" stroke="black"/>
+<circle r="1.5" transform="matrix(1 0 0 -1 861.5 98.5)" fill="black"/>
+<path d="M1273 226V148.5L1306.5 115" stroke="black"/>
+<circle cx="1306.5" cy="114.5" r="1.5" fill="black"/>
+</svg>

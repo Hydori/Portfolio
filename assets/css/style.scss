@@ -1,0 +1,16 @@
+@import 'scss/utilities';
+@import 'scss/site';
+
+
+@media (max-width: 1400px)  {
+    @import 'responsive/laptop';
+}
+
+@media (max-width: 1150px)  {
+    @import 'responsive/tablet';
+}
+
+@media (max-width: 767px)   {
+    @import 'responsive/mobile';
+
+}
